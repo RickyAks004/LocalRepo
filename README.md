@@ -1,1 +1,1 @@
-# This is my first local Repo
+# This is my first ml project on logistic regression
